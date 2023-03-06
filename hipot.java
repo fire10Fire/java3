@@ -12,9 +12,7 @@ public class hipot {
     int u= (a+b+c)/2;
     double alan = Math.sqrt((u*((u-a)*(u-b)*(u-c))));
 
-    System.out.println("birinci dik kenar uzunluğu "+ a);
-    System.out.println("ikinci dik kenar uzunluğu "+ b);     
-    System.out.println("hipotenüs uzunluğu "+c);
+   
     System.out.println("üçgenin alanı :"+ alan);
         
 
